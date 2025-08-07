@@ -100,6 +100,7 @@ export const useCrewJob = () => {
     } catch (error) {
       console.error(error);
       setCurrentJobId(null);
+      setRunning(false);
       toast.error("Job failed to start");
     }
   };
