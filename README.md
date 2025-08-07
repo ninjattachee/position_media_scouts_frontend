@@ -1,4 +1,4 @@
-# Position Media Scouts (just front-end)
+# Position Media Scouts (front-end)
 
 A simple UI for an AI-driven tool called Position Media Scouts (PMS). This tool is a group of agents that help you find articles and YouTube interview videos of a person who is in a position at a company.
 
