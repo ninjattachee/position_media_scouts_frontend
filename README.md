@@ -1,36 +1,17 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Position Media Scouts (just front-end)
 
-## Getting Started
+A simple UI for an AI-driven tool called Position Media Scouts (PMS). This tool is a group of agents that help you find articles and YouTube interview videos of a person who is in a position at a company.
 
-First, run the development server:
+## How it works:
+
+Let's say you want to catch up on the latest about Apple's CEO. Reading their recent articles or watching interview videos can be a great way to do that. All you need to do is type "Apple, CEO" into the UI, PMS will then get to work, searching the internet for recent articles they've published and videos of their interviews on YouTube. The tool will neatly organize the links to these articles and videos and present them to you in the UI.
+
+## Get started:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+pnpm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+_Important: Before you start working on the front-end, make sure to clone the back-end and get it running first._
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+[Front-end Repository](https://github.com/ninjattachee/position_media_scouts_frontend)
